@@ -1,7 +1,7 @@
-#ML Practice
+# ML Practice
 Just a simple Neural Network in R
 
-##How to view
+## How to view
 Download the html file to view it
 
 or
