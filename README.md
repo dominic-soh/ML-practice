@@ -2,7 +2,7 @@
 Just a simple Neural Network in R
 
 ## How to view
-Download the html file to view it
+Download the zip file and open the html
 
 or
 
